@@ -8,9 +8,8 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a target="_blank" href="https://vitejs.dev/">Vite</a> +
-      <a target="_blank" href="https://vuejs.org/">Vue 3</a>. What's next?
+      Gringo is your personal location manager bringing the physical 
+      world around you within your grasp.
     </h3>
   </div>
 </template>
