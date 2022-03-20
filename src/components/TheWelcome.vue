@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Personal Location Manager</template>
       Manage your location on the cloud. Share real time location updates with 
-      friends. Store your favorite routes. explore new locations with Gringo!
+      friends. Store your favorite routes and locations. Explore new locations with Gringo!
   </WelcomeItem>
 
   <WelcomeItem>
@@ -22,7 +22,8 @@ import SupportIcon from './icons/IconSupport.vue'
       <ToolingIcon />
     </template>
     <template #heading>Public Transport</template>
-      Get public transport on demand.
+      Get public transport on demand. With a large base of service 
+      provider, getting transport to your next appointment is a breeze.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -31,7 +32,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Locations</template>
       Follow your favorite locations to get latest updates on events, promotions
-      and sales.
+      and sales with Gringo. Never will you miss another event.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -39,7 +40,8 @@ import SupportIcon from './icons/IconSupport.vue'
       <CommunityIcon />
     </template>
     <template #heading>Deliveries</template>
-      Get your favorite meals, groceries delivered right at your doorstep.
+      Get your favorite meals, groceries delivered right at your doorstep. We have partnered with 
+      multiple restaurants and service providers to ensure you get your meal when you need it.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -47,6 +49,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <SupportIcon />
     </template>
     <template #heading>Tracking</template>
-      Track your vehicle, assets and kids with Gringo Tracker.
+      Track your vehicle, assets and kids with Gringo Tracker.Gringo allows you to monitor anything 
+      that matters to you right from your phone ensuring you never lose sight of what matters the most.
   </WelcomeItem>
 </template>
