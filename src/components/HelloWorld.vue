@@ -9,7 +9,7 @@ defineProps<{
     <h1 class="green">{{ msg }}</h1>
     <h3>
       Gringo is your personal location manager bringing the physical 
-      world around at your fingertips.
+      world around you at your fingertips.
     </h3>
   </div>
 </template>
