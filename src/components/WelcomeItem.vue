@@ -1,6 +1,6 @@
 <template>
   <div class="item">
-    <i>
+    <i style="background-color: #43D4FC">
       <slot name="icon"></slot>
     </i>
     <div class="details">

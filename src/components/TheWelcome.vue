@@ -53,9 +53,3 @@ import SupportIcon from './icons/IconSupport.vue'
       that matters to you right from your phone ensuring you never lose sight of what matters the most.
   </WelcomeItem>
 </template>
-
-<style>
-i {
-    background-color: #43D4FC !important;
-  }
-</style>
