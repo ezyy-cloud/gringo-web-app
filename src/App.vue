@@ -1,8 +1,8 @@
 <template>
-<router-view></router-view>
+    <router-view></router-view>
 </template>
 
-<script lang="ts">
+<script setup lang="ts">
 
 </script>
 
